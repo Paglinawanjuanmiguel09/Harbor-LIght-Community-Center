@@ -1,4 +1,5 @@
-# Harbor-LIght-Community-Center
+# Harbor-Light-Community-Center
+index.html
 <!DOCTYPE html> 
 <html> 
 <head> 
