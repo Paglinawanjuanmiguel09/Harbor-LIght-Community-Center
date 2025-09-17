@@ -14,7 +14,6 @@
   </style>
 </head> 
 <body> 
-<font face="Arial, sans-serif"> 
 <header> 
 <center><img src="https://edube.org/uploads/media/default/0001/04/logo.jpg" alt="Center 
 Logo"> 
