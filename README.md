@@ -49,7 +49,8 @@ miss our annual summer festival for fun, food, and festivities for all ages.</p>
     <section itemscope, itemtype="http:/schema.org/Event"
 <footer id="contact">
 <h2>Contact Us</h2> 
-<p>Have questions or want to get involved? <a href="malito:info@harborlight.com"> Email us!</p> 
+<p>Have questions or want to get involved?</p> 
+      <p><a href="malito:info@harborlight.com"> Email us!</p> 
   <p> © 2050 Harbor Light Community Center</p>
 </footer> 
 </font> 
