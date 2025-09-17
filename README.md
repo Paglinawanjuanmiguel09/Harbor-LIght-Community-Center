@@ -12,12 +12,8 @@ Logo">
 Welcome to Harbor Light Community Center</center> 
 </header> 
 <nav>
-  <ul class="menu">
-    <li>Home</li>
-    <li>About</li>
-    <li>Services</li>
-    <li>Events</li>
-    <li>Contacts</li>
+  <ul>
+    <li>Home | About | Services | Events | Contact</li>
   </ul>
 </nav> 
 <div class="banner"> 
