@@ -5,7 +5,7 @@
 <title>Harbor Light Community Center</title>
   <style>
     body {
-      font-family:"Arial, sans-serif;
+      font-family: Arial, sans-serif;
       }
     .center-and-space-content {
       text-align: center;
@@ -14,10 +14,10 @@
   </style>
 </head> 
 <body> 
-<header> 
-<center><img src="https://edube.org/uploads/media/default/0001/04/logo.jpg" alt="Center 
+<header class="center-and-space-content">
+<img src="https://edube.org/uploads/media/default/0001/04/logo.jpg" alt="Center 
 Logo"> 
-Welcome to Harbor Light Community Center</center> 
+<h1>Welcome to Harbor Light Community Center</h1>
 </header> 
 <nav>
   <ul>
@@ -30,7 +30,7 @@ Welcome to Harbor Light Community Center</center>
 </nav> 
 <div class="banner"> 
 <img src="https://edube.org/uploads/media/default/0001/04/decorative-banner.jpg" 
-alt="" aria-hidden="true"
+alt="" aria-hidden="true">
 </div> 
   <main>
 <section id="about">
@@ -56,9 +56,8 @@ miss our annual summer festival for fun, food, and festivities for all ages.</p>
 <footer id="contacts">
 <h2>Contact Us</h2> 
 <p>Have questions or want to get involved?</p> 
-      <p><a href="info@harborlight.com"> Email us!</p> 
+      <p><<a href="mailto:info@harborlight.com">Email us!</a></p> 
   <p> © 2050 Harbor Light Community Center</p>
 </footer> 
-</font> 
 </body> 
 </html>
