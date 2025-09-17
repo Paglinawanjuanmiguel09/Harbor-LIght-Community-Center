@@ -1,6 +1,4 @@
 # Harbor-Light-Community-Center
-index.html
-<!DOCTYPE html> 
 <html> 
 <head> 
 <title>Harbor Light Community Center</title>
