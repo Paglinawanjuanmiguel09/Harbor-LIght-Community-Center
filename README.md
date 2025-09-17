@@ -44,7 +44,7 @@ our services are tailored to meet the diverse needs of our community members.</p
 miss our annual summer festival for fun, food, and festivities for all ages.</p> 
 <br> 
 <p><strong>Annual Summer Festival</strong></p><br>
-<time datetime="2050-07-20>Starts: July 20, 2050</time>
+<time date="2050-07-20> Starts: July 20, 2050</time>
 </section> 
     <section itemscope, itemtype="http:/schema.org/Event"
 <footer> 
