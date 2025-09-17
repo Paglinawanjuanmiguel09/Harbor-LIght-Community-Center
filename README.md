@@ -13,13 +13,8 @@ Welcome to Harbor Light Community Center</center>
 </header> 
 <nav> 
   <ul>
-    <li>Home</li>
-    <li>About</li>
-    <li>Services</li>
-    <li>Events</li>
-    <li>Contact</li>
-  </ul>
-Home | About | Services | Events | Contact 
+    <li>Home | About | Services | Events | Contact</li>
+  </ul> 
 </nav> 
 <div class="banner"> 
 <img src="https://edube.org/uploads/media/default/0001/04/decorative-banner.jpg" 
