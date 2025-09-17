@@ -11,10 +11,14 @@
 Logo"> 
 Welcome to Harbor Light Community Center</center> 
 </header> 
-<nav> 
-  <ul>
-    <li>Home | About | Services | Events | Contact</li>
-  </ul> 
+<nav>
+  <ul class="menu">
+    <li>Home</li>
+    <li>About</li>
+    <li>Services</li>
+    <li>Events</li>
+    <li>Contacts</li>
+  </ul>
 </nav> 
 <div class="banner"> 
 <img src="https://edube.org/uploads/media/default/0001/04/decorative-banner.jpg" 
@@ -46,7 +50,7 @@ miss our annual summer festival for fun, food, and festivities for all ages.</p>
 <footer> 
 Contact Us 
 <p>Have questions or want to get involved? <a href=info@harborlight.com> Email us!</p> 
-  <p>  2050 Harbor Light Community Center</p>
+  <p> © 2050 Harbor Light Community Center</p>
 </footer> 
 </font> 
 </body> 
