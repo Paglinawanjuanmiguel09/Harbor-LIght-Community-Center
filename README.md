@@ -2,7 +2,16 @@
 <!DOCTYPE html> 
 <html> 
 <head> 
-<title>Harbor Light Community Center</title> 
+<title>Harbor Light Community Center</title>
+  <style>
+    body {
+      font-family:"Arial, sans-serif;
+      }
+    .center-and-space-content {
+      text-align: center;
+      padding: 10px;
+      }
+  </style>
 </head> 
 <body> 
 <font face="Arial, sans-serif"> 
