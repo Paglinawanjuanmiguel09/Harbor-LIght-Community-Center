@@ -47,7 +47,7 @@ miss our annual summer festival for fun, food, and festivities for all ages.</p>
 <time>Starts: July 20, 2050</time>
 </section> 
     <section itemscope, itemtype="http:/schema.org/Event"
-<footer id="contact">
+<footer id="contacts">
 <h2>Contact Us</h2> 
 <p>Have questions or want to get involved?</p> 
       <p><a href="info@harborlight.com"> Email us!</p> 
