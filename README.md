@@ -38,8 +38,7 @@ alt="" aria-hidden="true"
 <p>The Harbor Light Community Center has been at the heart of our community for over 
 30 years, offering a wide range of services and programs designed to support and enrich the lives 
 of our residents.</p> 
-<p><img src="https://edube.org/uploads/media/default/0001/04/community-center.jpg" 
-hspace="10" vspace="10"></p> 
+<p><img src="https://edube.org/uploads/media/default/0001/04/community-center.jpg" alt="Community Center"></p> 
 </section> 
 <section id="services">
 <h2>Our Services</h2> 
@@ -49,12 +48,11 @@ our services are tailored to meet the diverse needs of our community members.</p
 <section id="events" itemscope itemtype="http://schema.org/Event">
 <h2>Join Our Events</h2> 
 <p>Our community center is a hub of activity, hosting events throughout the year. Don't 
-miss our annual summer festival for fun, food, and festivities for all ages.</p> 
-<br> 
-<p itemprop="description"><strong>Annual Summer Festival</strong></p><br>
-<time>Starts: July 20, 2050</time>
+miss our annual summer festival for fun, food, and festivities for all ages.</p>
+  <p itemprop="description"><strong>Annual Summer Festival</strong></p>
+  <time datetime="2050-07-20">Starts: July 20, 2050</time>
 </section> 
-    <section itemscope, itemtype="http:/schema.org/Event"
+  </main>
 <footer id="contacts">
 <h2>Contact Us</h2> 
 <p>Have questions or want to get involved?</p> 
