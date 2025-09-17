@@ -50,7 +50,7 @@ our services are tailored to meet the diverse needs of our community members.</p
 <p>Our community center is a hub of activity, hosting events throughout the year. Don't 
 miss our annual summer festival for fun, food, and festivities for all ages.</p>
   <p itemprop="description"><strong>Annual Summer Festival</strong></p>
-  <time datetime="2050-07-20">Starts: July 20, 2050</time>
+  <time datetime="2050-07-20" itemprop="startDate">Starts: July 20, 2050</time>
 </section> 
   </main>
 <footer id="contacts">
